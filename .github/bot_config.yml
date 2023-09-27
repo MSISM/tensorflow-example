@@ -22,3 +22,6 @@
 # A list of assignees
 assignees:
    - laxmareddyp
+- name: Setup JFrog CLI
+  uses: jfrog/setup-jfrog-cli@v3.4.0
+            
